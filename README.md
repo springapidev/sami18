@@ -1,2 +1,2 @@
 # sami18
-This is simple Java Api using Spring Rest for Android
+This is simple angular  Api consume example calling spring Rest api
